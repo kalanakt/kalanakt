@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m 1st year Engineering Student in university of peradeniya in sri lanka 
+- 🔭 I’m 1st year Engineering Student in university of peradeniya, sri lanka 
 - 🌱 I’m currently learning python 
 - 📫 How to reach me: telegram - https://t.me/kinu6
 - ⚡ Fun fact: "it's shoud be work now 🤣"

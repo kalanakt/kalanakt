@@ -1,7 +1,7 @@
 ### Hi there  👋
 
 
-Here are some ideas to get you started:
+something about me :
 
 - 🔭 I’m 1st year Engineering Student in university of peradeniya, sri lanka 
 - 🌱 I’m currently learning python 

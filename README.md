@@ -19,5 +19,3 @@
   
 <a href="https://t.me/Spaciousuniversegroup1">
     &nbsp;<img src="https://img.shields.io/badge/Spacious Universe-Group-blue?style=flat-square&logo=telegram" width="200" height="30">&nbsp;
-
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=kalanakt/kalanakts)

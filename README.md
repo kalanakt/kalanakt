@@ -10,7 +10,6 @@
 [![Hash Minner's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kalanakt)](https://git.io/streak-stats)
 ![Hash Minner's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalanakt&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=08088A) 
 
-
 <p align=":1">
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="200">

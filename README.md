@@ -1,7 +1,7 @@
 ## Hi there! I hope you’re doing well.  👋
   ![wp6431069](https://user-images.githubusercontent.com/86665964/138492352-e4e5bdaa-3183-49dc-9b25-a9c6156f2eae.jpg)
   
-###     Something about me :
+## Something about me :
 
 <p align="">
   <img src="https://readme-typing-svg.herokuapp.com/?color=F77247&width=420&lines=I+am+a+1st+year+Engineering+student%EF%B8%8F;In%20University%20of%20peradeniya%20sri%20lanka%EF%B8%8F;I%20realy%20liked%20to%20make%20Telegram%20%20%20Bots%EF%B8%8F%EF%B8%8F;Have%20a%20nice%20day%20To%20you!%EF%B8%8F">

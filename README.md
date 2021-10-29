@@ -17,16 +17,10 @@
 </p>
 
 <p><img align="righ" src="https://github-readme-stats.vercel.app/api?username=kalanakt&show_icons=true&locale=en" alt="kalanakt" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakt&show_icons=true&locale=en&layout=compact" alt="kalanakt" />
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalanakt&show_icons=true&locale=en&layout=compact" alt="kalanakt" /></p>
-
-<p align="center">
   
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=X-SLAYER&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-SLAYER&layout=compact" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=kalanakt&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakt&layout=compact" />
 </div>
   
 

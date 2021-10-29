@@ -18,9 +18,9 @@
 <a href="https://www.youtube.com/c/kalanakt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kalanakt" height="30" width="40" /></a>
 </p>
 
-[!["Hash Minner's GitHub Streak"](https://github-readme-streak-stats.herokuapp.com/?user=kalanakt)](https://git.io/streak-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalanakt&show_icons=true&locale=en&layout=compact" alt="kalanakt" /></p>
 
 </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalanakt&show_icons=true&locale=en&layout=compact" alt="kalanakt" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakt&show_icons=true&locale=en&layout=compact" alt="kalanakt" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalanakt&show_icons=true&locale=en" alt="kalanakt" /></p>

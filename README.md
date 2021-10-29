@@ -13,8 +13,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakt&show_icons=true&locale=en&layout=compact" alt="kalanakt" /></p>
 
 
-<img align="left" alt="Coding" width="400" src="https://th.bing.com/th/id/R.c7e51e847dd547d93318291bcd1749b2?rik=CiK4fvRwKGnwYA&pid=ImgRaw&r=0">
-
 <p align="center">
   
 <h3 align="left">Connect with me:</h3>

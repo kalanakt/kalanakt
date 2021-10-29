@@ -18,7 +18,7 @@
 </p>
 
 [!["Hash Minner's GitHub Streak"](https://github-readme-streak-stats.herokuapp.com/?user=kalanakt)](https://git.io/streak-stats)
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalanakt&show_icons=true&locale=en&layout=compact" alt="kalanakt" /></p>
 <p align=":1">
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="200">

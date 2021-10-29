@@ -10,9 +10,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kalanakt&&count_private=true&include_all_commits=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakt&theme=radical"/>|
 |---|---|
   
- 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakt&layout=compact&theme=radical" />
-<h3 align="left"></h3>
+## The languages I use :
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakt&layout=compact&theme=radical" />
 
 ## Connect with me : 
 

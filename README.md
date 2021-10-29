@@ -1,5 +1,4 @@
 ## Hi there! I hope you’re doing well.  👋
-  ![wp6431069](https://user-images.githubusercontent.com/86665964/138492352-e4e5bdaa-3183-49dc-9b25-a9c6156f2eae.jpg)
   
 ## Something about me :
 
@@ -9,10 +8,11 @@
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.c7e51e847dd547d93318291bcd1749b2?rik=CiK4fvRwKGnwYA&pid=ImgRaw&r=0">
 <p align="left">
 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakt&show_icons=true&locale=en&layout=compact" alt="kalanakt" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalanakt&show_icons=true&locale=en&layout=compact" alt="kalanakt" /></p>
 
 </a> </p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakt&show_icons=true&locale=en&layout=compact" alt="kalanakt" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalanakt&show_icons=true&locale=en" alt="kalanakt" /></p>
 

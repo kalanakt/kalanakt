@@ -5,11 +5,9 @@
 
 <img align="rigth" src="https://readme-typing-svg.herokuapp.com/?color=255ccc&width=420&lines=I+am+a+1st+year+Engineering+student%EF%B8%8F;In%20University%20of%20peradeniya%20sri%20lanka%EF%B8%8F;I%20realy%20liked%20to%20make%20Telegram%20%20%20Bots%EF%B8%8F%EF%B8%8F;Have%20a%20nice%20day%20To%20you!%EF%B8%8F">
 
+<img src="https://github-readme-stats.vercel.app/api?username=kalanakt&&count_private=true&include_all_commits=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakt&theme=radical"/>|
+|---|---|
   
-<div>
-  <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=kalanakt&count_private=true&include_all_commits=true" />
-  <img height="160" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakt&show_icons=true&locale=en&layout=compact" />
-</div>
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakt&layout=compact" />
 <h3 align="left"></h3>

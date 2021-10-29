@@ -8,16 +8,16 @@
 
 <p><img align="righ" src="https://github-readme-stats.vercel.app/api?username=kalanakt&show_icons=true&locale=en" alt="kalanakt" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakt&show_icons=true&locale=en&layout=compact" alt="kalanakt" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakt&show_icons=true&locale=en&layout=compact" alt="kalanakt" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalanakt&show_icons=true&locale=en&layout=compact" alt="kalanakt" /></p>
 
 <p align="center">
   
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect </h3>
+
 <p align="left">
-<!-- <a href="https://twitter.com/kalanakt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kalanakt" height="30" width="40" /></a> -->
+<!-- <a href="https://twitter.com/kalanakt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kalanakt" height="80" width="60" /></a> -->
 <a href="https://linkedin.com/in/kalanakt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kalanakt" height="30" width="40" /></a>
 <a href="https://instagram.com/kalanakt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kalanakt" height="30" width="40" /></a>
 <a href="https://www.facebook.com/kalana.kithmina.735" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kalanakt" height="30" width="40" /></a>

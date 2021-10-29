@@ -19,7 +19,7 @@
 <p align="left">
 <!-- <a href="https://twitter.com/kalanakt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kalanakt" height="80" width="60" /></a> -->
 <a href="https://linkedin.com/in/kalanakt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kalanakt" height="30" width="40" /></a>
-<a href="https://instagram.com/kalanakt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kalanakt" height="30" width="40" /></a>
+<a href="https://instagram.com/____kalana_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kalanakt" height="30" width="40" /></a>
 <a href="https://www.facebook.com/kalana.kithmina.735" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kalanakt" height="30" width="40" /></a>
 <a href="https://telegram.com/kinu6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="kalanakt" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kalanakt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kalanakt" height="30" width="40" /></a>

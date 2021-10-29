@@ -6,11 +6,15 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalanakt&show_icons=true&locale=en&layout=compact" alt="kalanakt" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalanakt&show_icons=true&locale=en" alt="kalanakt" /></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalanakt&label=Profile%20views&color=129e00&style=plastic" alt="kalanakt" /> </p>
 
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakt&show_icons=true&locale=en&layout=compact" alt="kalanakt" /></p>
+
 
 <img align="center" alt="Coding" width="400" src="https://th.bing.com/th/id/R.c7e51e847dd547d93318291bcd1749b2?rik=CiK4fvRwKGnwYA&pid=ImgRaw&r=0">
 <p align="center">

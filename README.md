@@ -9,7 +9,6 @@
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=kalanakt&count_private=true&include_all_commits=true" />
   <img height="170" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakt&show_icons=true&locale=en&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakt&layout=compact" />
 </div>
   
 <h3 align="left"></h3>
@@ -23,3 +22,4 @@
 <a href="https://www.youtube.com/c/kalanakt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kalanakt" height="30" width="40" /></a>
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakt&layout=compact" />

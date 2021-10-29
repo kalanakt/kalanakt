@@ -7,8 +7,8 @@
 
   
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=kalanakt&count_private=true&include_all_commits=true" />
-  <img height="170" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakt&show_icons=true&locale=en&layout=compact" />
+  <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=kalanakt&count_private=true&include_all_commits=true" />
+  <img height="160" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakt&show_icons=true&locale=en&layout=compact" />
 </div>
   
 <h3 align="left"></h3>

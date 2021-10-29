@@ -5,12 +5,16 @@
 
 <img align="rigth" src="https://readme-typing-svg.herokuapp.com/?color=d00859&width=500&lines=I+am+a+1st+year+Engineering+student+.;%EF%B8%8FIn%20University%20of%20peradeniya%20sri%20lanka%EF%B8%8F;I%20am%20trying%20to%20Figure%20Out%20%20%20Stuff!!%EF%B8%8F%EF%B8%8F;Have%20a%20nice%20day%20To%20you!%EF%B8%8F">
 
+## My GitHub Status :
+
 <img src="https://github-readme-stats.vercel.app/api?username=kalanakt&&count_private=true&include_all_commits=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakt&theme=radical"/>|
 |---|---|
   
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakt&layout=compact&theme=radical" />
 <h3 align="left"></h3>
+
+## Connect with me : 
 
 <p align="left">
 <!-- <a href="https://twitter.com/kalanakt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kalanakt" height="80" width="60" /></a> -->

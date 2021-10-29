@@ -10,7 +10,8 @@
   <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=kalanakt&count_private=true&include_all_commits=true" />
   <img height="160" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakt&show_icons=true&locale=en&layout=compact" />
 </div>
-  
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakt&layout=compact" />
 <h3 align="left"></h3>
 
 <p align="left">
@@ -21,5 +22,3 @@
 <a href="https://telegram.com/kinu6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="kalanakt" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kalanakt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kalanakt" height="30" width="40" /></a>
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakt&layout=compact" />

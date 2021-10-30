@@ -19,8 +19,9 @@
 <p align="left">
 <!-- <a href="https://twitter.com/kalanakt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kalanakt" height="80" width="60" /></a> -->
 <a href="https://linkedin.com/in/kalanakt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kalanakt" height="30" width="40" /></a>
-<a href="https://instagram.com/____kalana_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kalanakt" height="30" width="40" /></a>
-<a href="https://www.facebook.com/kalana.kithmina.735" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kalanakt" height="30" width="40" /></a>
-<a href="https://t.me/kinu6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="kalanakt" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kalanakt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kalanakt" height="30" width="40" /></a>
+<a href="https://instagram.com/____kalana_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kalanakt" height="30" width="40" /></a>
+<a href="https://www.facebook.com/kalana.kithmina.735" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kalanakt" height="30" width="40" /></a>
+<a href="https://t.me/kinu6" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="kalanakt" height="30" width="40" /></a>
+<a href="https://wa.me/94760351335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="919496300461" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/kalanakt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kalanakt" height="30" width="40" /></a>
 </p>

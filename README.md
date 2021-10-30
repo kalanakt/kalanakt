@@ -21,6 +21,6 @@
 <a href="https://linkedin.com/in/kalanakt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kalanakt" height="30" width="40" /></a>
 <a href="https://instagram.com/____kalana_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kalanakt" height="30" width="40" /></a>
 <a href="https://www.facebook.com/kalana.kithmina.735" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kalanakt" height="30" width="40" /></a>
-<a href="https://telegram.com/kinu6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="kalanakt" height="30" width="40" /></a>
+<a href="https://t.me/kinu6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="kalanakt" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kalanakt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kalanakt" height="30" width="40" /></a>
 </p>

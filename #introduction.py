@@ -12,6 +12,7 @@
         # mathord :  #open issues ( left on <code> button)
                      #copy picture to issues
                      #after that replace line 2 to given text link
+                     #EX:- ![photo_2021-10-29_23-28-57](https://user-images.githubusercontent.com/86665964/139581035-25bdf040-e77e-46f2-bbb7-1cedba921aa7.jpg)
         
         
    

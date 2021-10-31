@@ -1,4 +1,4 @@
-# you can Fork and edit this read me file if you want to
+# you can Fork and edit this read me file if you want to(fork name is should be your username ***)
 
 # follow this steps:
 
@@ -12,5 +12,6 @@
         # mathord :  #open issues ( left on <code> button)
                      #copy picture to issues
                      #after that replace line 2 to given text link
+        
         
    

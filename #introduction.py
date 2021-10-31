@@ -11,6 +11,6 @@
   #7. you can also replace gif to picture , 
         # mathord :  #open issues ( left on <code> button)
                      #copy picture to issues
-                     #after that replace line .. to given text link
+                     #after that replace line 2 to given text link
         
    

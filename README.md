@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bold&color=%2325F746&size=25&lines=Hi+there!;I+Hope+You're+doing+well+👋+👋+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bold&color=%2325F746&size=25&lines=Hi+there!;I+Hope+You're+doing+well)](https://git.io/typing-svg) 
 
 <img align="center" alt="Coding" width="400" src="https://th.bing.com/th/id/R.c7e51e847dd547d93318291bcd1749b2?rik=CiK4fvRwKGnwYA&pid=ImgRaw&r=0">
 

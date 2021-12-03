@@ -8,12 +8,12 @@
 
 ## My GitHub Status :
 
-<img src="https://github-readme-stats.vercel.app/api?username=kalanakt&&count_private=true&include_all_commits=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakt&theme=radical"/>|
+<img src="https://github-readme-stats.vercel.app/api?username=kalanakt&&count_private=true&include_all_commits=true&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakt&theme=tokyonight"/>|
 |---|---|
   
 ## The languages I use :
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakt&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakt&layout=compact&theme=cobalt" />
 
 ## Connect with me : 
 

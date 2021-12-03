@@ -13,7 +13,7 @@
   
 ## The languages I use :
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakt&layout=compact&theme=cobalt" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakt&layout=compact&theme=tokyonight" />
 
 ## Connect with me : 
 

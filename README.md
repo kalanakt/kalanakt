@@ -18,7 +18,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakt&layout=compact&theme=tokyonight"></a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kalanakt&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kalanakt&theme=tokyonight&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## Connect with me : 

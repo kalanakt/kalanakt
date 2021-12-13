@@ -1,4 +1,4 @@
-```
+
       <p>
         I'm
         <span
@@ -6,7 +6,7 @@
               data-typed-items="Student, TV Series Lover, Small Developer, Knowlage seeker"
         ></span>
       </p>
-```
+
 
 
 

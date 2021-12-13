@@ -1,11 +1,9 @@
 
-      <p>
         I'm
         <span
               class="typed"
               data-typed-items="Student, TV Series Lover, Small Developer, Knowlage seeker"
         ></span>
-      </p>
 
 
 

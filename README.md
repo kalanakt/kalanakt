@@ -1,6 +1,5 @@
-## My GitHub Status :
-
 <Details>
+  <summary><b>Contributions</b></summary>
   
 <img src="https://github-readme-stats.vercel.app/api?username=kalanakt&&count_private=true&include_all_commits=true&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakt&theme=tokyonight"/>|
 |---|---|
@@ -8,6 +7,7 @@
 </Details>
 
 <Details>
+  <summary><b>Languages</b></summary>
   
 <p align="center">
   <a href="https://github.com/kalanakt/kalanakt">
@@ -17,6 +17,7 @@
 </Details>
 
 <Details>
+  <summary><b>Status</b></summary>
   
 <p align="center">
   <a href="https://github.com/kalanakt/kalanakt">
@@ -25,10 +26,8 @@
   
 </Details>
 
-
-## Connect with me : 
-
 <Details>
+  <summary><b>Contact</b></summary>
   
 <p align="">
   <a href="https://instagram.com/____kalana_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kalanakt" height="30" width="40" /></a>

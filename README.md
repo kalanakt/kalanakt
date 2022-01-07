@@ -1,3 +1,7 @@
+
+<p align="centre">
+    <img src="https://github.com/kalanakt/kalanakt/blob/main/assets/Higithu.png">
+</p>
 <Details>
   <summary><b>Contributions</b></summary>
   

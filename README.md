@@ -1,15 +1,4 @@
-## About Me :
-<Details>
-        I'm
-        <span>
-              class="typed"
-              data-typed-items="Student, TV Series Lover, Small Developer, Knowlage seeker"
-        </span>
-</Details>
-
-
 ## My GitHub Status :
-<Details>
 <img src="https://github-readme-stats.vercel.app/api?username=kalanakt&&count_private=true&include_all_commits=true&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakt&theme=tokyonight"/>|
 |---|---|
 <p align="center">
@@ -21,7 +10,6 @@
   <a href="https://github.com/kalanakt/kalanakt">
   <img src="https://github-profile-trophy.vercel.app/?username=kalanakt&theme=tokyonight&row=1"></a>
 </p>
-</Details>
 
 
 

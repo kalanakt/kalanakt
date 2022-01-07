@@ -1,6 +1,6 @@
 
 <p align="centre">
-    <img src="https://github.com/kalanakt/kalanakt/blob/main/assets/Hi%20!.png">
+    <img src="https://github.com/kalanakt/kalanakt/blob/main/assets/HiGit.png">
 </p>
 <Details>
   <summary><b>Contributions</b></summary>

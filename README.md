@@ -1,6 +1,7 @@
 
+
 <p align="centre">
-    <img src="https://github.com/kalanakt/kalanakt/blob/main/assets/HiGit.png">
+    <img src="https://github.com/kalanakt/kalanakt/blob/main/assets/HiGit.png" style="border-radius:50%"/>
 </p>
 <Details>
   <summary><b>Contributions</b></summary>

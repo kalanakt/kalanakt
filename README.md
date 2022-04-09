@@ -42,3 +42,5 @@
 </p>
   
 </Details>
+
+<img src="https://komarev.com/ghpvc/?username=kalanakt&style=flat-square&color=blue" alt=""/>

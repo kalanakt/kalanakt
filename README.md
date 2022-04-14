@@ -1,8 +1,8 @@
 
 
-<p align="centre">
+<!-- <p align="centre">
     <img src="https://github.com/kalanakt/kalanakt/blob/main/assets/HiGit.png" style="border-radius:50%"/>
-</p>
+</p> -->
 <Details>
   <summary><b>Contributions</b></summary>
   

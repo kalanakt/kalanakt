@@ -32,7 +32,3 @@
 </p>
   
 </Details>
-
-
-*<img align="center" src="https://komarev.com/ghpvc/?username=kalanakt&style=flat-square&color=blue" height = 20px/>*
-*<img align="center" src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg" height = 20px/>*

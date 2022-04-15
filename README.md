@@ -22,16 +22,6 @@
 </Details>
 
 <Details>
-  <summary><b>Status</b></summary>
-  
-<p align="center">
-  <a href="https://github.com/kalanakt/kalanakt">
-  <img src="https://github-profile-trophy.vercel.app/?username=kalanakt&theme=tokyonight&row=1"></a>
-</p>
-  
-</Details>
-
-<Details>
   <summary><b>Contact</b></summary>
   
 <p align="">

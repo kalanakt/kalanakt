@@ -32,3 +32,6 @@
 </p>
   
 </Details>
+
+![GitHub stars](https://img.shields.io/github/stars/kalanakt?style=social)
+![GitHub followers](https://img.shields.io/github/followers/kalanakt?style=social)

@@ -35,3 +35,5 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/kalanakt?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/kalanakt?style=social)
+[![Profile views](https://komarev.com/ghpvc/?username=kalanakt&label=Profile%20views)](https://github.com/kalanakt)
+   

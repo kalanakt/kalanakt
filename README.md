@@ -36,4 +36,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/kalanakt?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/kalanakt?style=social)
 [![Profile views](https://komarev.com/ghpvc/?username=kalanakt&label=Profile%20views)](https://github.com/kalanakt)
+
+<a href="https://www.buymeacoffee.com/kalanakt" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
    

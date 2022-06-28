@@ -11,6 +11,7 @@
   
 </Details>
 
+<!--
 <Details>
   <summary><b>Languages</b></summary>
   
@@ -18,6 +19,7 @@
   <a href="https://github.com/kalanakt/kalanakt">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakt&layout=compact&theme=tokyonight"></a>
 </p>
+-->
 
 </Details>
 

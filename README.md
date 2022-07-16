@@ -3,13 +3,9 @@
 <!-- <p align="centre">
     <img src="https://github.com/kalanakt/kalanakt/blob/main/assets/HiGit.png" style="border-radius:50%"/>
 </p> -->
-<Details>
-  <summary><b>Contributions</b></summary>
   
 <img src="https://github-readme-stats.vercel.app/api?username=kalanakt&&count_private=true&include_all_commits=true&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakt&theme=tokyonight"/>|
 |---|---|
-  
-</Details>
 
 <!--
 <Details>

@@ -40,10 +40,14 @@ I am an undergraduate Engineering student at University of peradeniya, Sri Lanka
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakt&layout=compact&theme=tokyonight"></a>
 </td>
 <td width="58%" align="center">
-<a href="https://wakatime.com/"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=kalanakt&layout=default&theme=tokyonight&v=2"></a>
+<a href="https://wakatime.com/"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=kingabesh&layuout=compact&theme=tokyonight&v=2"></a>
 </td>
 </table>
 <br>
+
+<!--START_SECTION:waka-->
+          
+<!--END_SECTION:waka-->
 
 <!-- <p align="centre">
     <img src="https://github.com/kalanakt/kalanakt/blob/main/assets/HiGit.png" style="border-radius:50%"/>

@@ -38,7 +38,7 @@ I am an undergraduate Engineering student at University of peradeniya, Sri Lanka
 <td width="50%" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakt&layout=compact&theme=tokyonight">
 </td>
-<td width="50%" align="right">
+<td width="50%" align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@kalanakt&layout=compact&theme=tokyonight">
 </td>
 </table>

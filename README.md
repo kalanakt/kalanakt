@@ -12,12 +12,13 @@
 I am an undergraduate Engineering student at University of peradeniya, Sri Lanka. Python, Javascript, HTML, CSS and C++ are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing, Android development, and digital marketing**
 - 🌱 I’m currently learning ...
-  - Kotlin
-  - React js
+  - <a href="https://kotlinlang.org/">Kotlin</a>
+  - <a href="https://reactjs.org/">React js</a>
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href = "mailto: e19198@eng.pdn.ac.lk ">e19198@eng.pdn.ac.lk</a>
+- 💌 Hire me at:  <a href = "https://t.me/kinu6">◻ Telegram</a>  <a href = "https://wa.me/94760351335">◻ Whatsapp</a>
 <br>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Here Are Some of My GitHub Statistics ....***

@@ -5,9 +5,9 @@
 <a title="kalana's GitHub stars " href="https://github.com/kalanakt" ><img src="https://img.shields.io/github/stars/kalanakt?style=social" alt="kalana's GitHub stars "></a>
 
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=300px height=270px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width=30px height=30px>&nbsp;***About me***
 
 I am an undergraduate Engineering student at University of peradeniya, Sri Lanka. Python, Javascript, HTML, CSS and C++ are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing, Android development, and digital marketing**
@@ -21,7 +21,7 @@ I am an undergraduate Engineering student at University of peradeniya, Sri Lanka
 - 💌 Hire me:  <a href = "mailto: e19198@eng.pdn.ac.lk ">◻ Email</a> <a href = "https://t.me/kinu6">◻ Telegram</a>  <a href = "https://wa.me/94760351335">◻ Whatsapp</a>
 <br>
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Here Are Some of My GitHub Statistics ....***
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=30px height=30px>&nbsp;***Here Are Some of My GitHub Statistics ....***
 <br>
 <table border="0" align="center">
 <td width="50%" align="center">

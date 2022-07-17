@@ -35,10 +35,10 @@ I am an undergraduate Engineering student at University of peradeniya, Sri Lanka
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Most Used Languages ....***
 <br>
 <table border="0" align="center">
-<td width="50%" align="left">
+<td width="42%" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakt&layout=compact&theme=tokyonight">
 </td>
-<td width="50%" align="center">
+<td width="58%" align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@kalanakt&layout=compact&theme=tokyonight">
 </td>
 </table>

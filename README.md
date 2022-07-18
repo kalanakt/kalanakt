@@ -25,7 +25,7 @@ I am an undergraduate Engineering student at University of peradeniya, Sri Lanka
 <br>
 <table border="0" align="center">
 <td width="50%" align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=kalanakt&&count_private=true&include_all_commits=true&theme=tokyonight"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=kalanakt&&count_private=true&include_all_commits=true&theme=tokyonight&disable_animations=false"></a>
 </td>
 <td width="50%" align="center">
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakt&theme=tokyonight">
@@ -44,11 +44,6 @@ I am an undergraduate Engineering student at University of peradeniya, Sri Lanka
 </td></a>
 </table>
 <br>
-
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 
 <!-- <p align="centre">
     <img src="https://github.com/kalanakt/kalanakt/blob/main/assets/HiGit.png" style="border-radius:50%"/>

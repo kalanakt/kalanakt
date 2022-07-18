@@ -25,7 +25,7 @@ I am an undergraduate Engineering student at University of peradeniya, Sri Lanka
 <br>
 <table border="0" align="center">
 <td width="50%" align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=kalanakt&&count_private=true&include_all_commits=true&theme=tokyonight&disable_animations=false"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=kalanakt&count_private=true&include_all_commits=true&theme=tokyonight&disable_animations=false"></a>
 </td>
 <td width="50%" align="center">
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakt&theme=tokyonight">
@@ -35,6 +35,10 @@ I am an undergraduate Engineering student at University of peradeniya, Sri Lanka
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=30px height=30px>&nbsp;***Most Used Languages ....***
 <br>
+
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakt&layoot=compact&theme=tokyonight&v2"></a>
+<!-- <br>
 <table border="0" align="center">
 <td width="28.42%" align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakt&theme=tokyonight&v2"></a>
@@ -43,7 +47,7 @@ I am an undergraduate Engineering student at University of peradeniya, Sri Lanka
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://activity-graph.herokuapp.com/graph?username=kalanakt&theme=react-dark&radius=8&hide_border=true&color=35ff69">
 </td></a>
 </table>
-<br>
+<br> -->
 
 <!-- <p align="centre">
     <img src="https://github.com/kalanakt/kalanakt/blob/main/assets/HiGit.png" style="border-radius:50%"/>

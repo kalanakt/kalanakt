@@ -45,6 +45,10 @@ I am an undergraduate Engineering student at University of peradeniya, Sri Lanka
 </table>
 <br>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <!-- <p align="centre">
     <img src="https://github.com/kalanakt/kalanakt/blob/main/assets/HiGit.png" style="border-radius:50%"/>
 </p> -->

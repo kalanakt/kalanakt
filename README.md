@@ -36,14 +36,15 @@ I am an undergraduate Engineering student at University of peradeniya, Sri Lanka
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=30px height=30px>&nbsp;***Most Used Languages ....***
 <br>
 <table border="0" align="center">
-<td width="42%" align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakt&layout=compact&theme=tokyonight"></a>
+<td width="28.42%" align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakt&theme=tokyonight"></a>
 </td>
-<td width="58%" align="center">
-<a href="https://wakatime.com/"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=kalanaKt&layuout=compact&theme=tokyonight&v=2"></a>
-</td>
+<td width="71.58%" align="center">
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://activity-graph.herokuapp.com/graph?username=kalanakt&theme=react-dark&radius=8&hide_border=true&color=35ff69">
+</td></a>
 </table>
 <br>
+
 
 <!--START_SECTION:waka-->
 

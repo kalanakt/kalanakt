@@ -37,9 +37,11 @@ I am an undergraduate Engineering student at University of peradeniya, Sri Lanka
 <br>
 
 <div align="">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakt&theme=tokyonight&langs_count=7&card_width=420&layout=compact"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakt&theme=tokyonight&langs_count=7&layout=compact"></a>
+
+
 <!-- <br> 
-<table border="0" align="center">
+<table border="0" align="center"> &card_width=420
 <td width="28.42%" align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakt&theme=tokyonight&v2"></a>
 </td>

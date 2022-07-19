@@ -34,8 +34,6 @@ I am an undergraduate Engineering student at University of peradeniya, Sri Lanka
 <br>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=30px height=30px>&nbsp;***Most Used Languages ....***
-
-<br>
 <br>
 <table border="0" align="center" width="100%">
 <td width="42%" align="left">

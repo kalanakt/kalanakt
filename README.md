@@ -34,12 +34,26 @@ I am an undergraduate Engineering student at University of peradeniya, Sri Lanka
 <br>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=30px height=30px>&nbsp;***Most Used Languages ....***
+
+<br>
+<br>
+<table border="0" align="center" width="100%">
+<td width="42%" align="left">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakt&theme=tokyonight&langs_count=8&layout=compact"></a>
+</td>
+<td width="58%" align="center">
+<a href="https://wakatime.com/"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=codexo&layout=default&theme=tokyonight"></a>
+</td>
+</table>
 <br>
 
-<div align="">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakt&theme=tokyonight&langs_count=8&layout=compact"></a>
-
-
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=30px height=30px>&nbsp;***GitHub Activity Graph ....***
+<br>
+<table border="0" align="center">
+<td width="100%" align="center">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=kalanakt&theme=react-dark&radius=8&hide_border=true&color=35ff69&hide_title=true"></a>
+</td>
+</table>
 <!-- <br> 
 <table border="0" align="center"> &card_width=420
 <td width="28.42%" align="center">

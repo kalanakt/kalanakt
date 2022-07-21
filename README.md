@@ -36,11 +36,11 @@ I am an undergraduate Engineering student at University of peradeniya, Sri Lanka
 </table>
 <br>
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=30px height=30px>&nbsp;***Most Used Languages | Daily Average....***
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=30px height=30px>&nbsp;***Most Used Languages | Weekly Average....***
 <br>
 <table border="0" align="center" width="10%">
 <td width="42%" align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakt&theme=tokyonight&langs_count=10&layout=compact"></a> 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakt&theme=tokyonight&langs_count=10&layout=compact&range=last_7_days"></a> 
 <!--  &layout=compact -->
 </td>
 <td width="58%" align="center">

@@ -24,6 +24,8 @@ I am an undergraduate Engineering student at University of peradeniya, Sri Lanka
 - 💌 Hire me:  <a href = "mailto: e19198@eng.pdn.ac.lk ">◻ Email</a> <a href = "https://t.me/kinu6">◻ Telegram</a>  <a href = "https://wa.me/94760351335">◻ Whatsapp</a>
 <br>
 
+<!--
+
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=30px height=30px>&nbsp;***Here Are Some of My GitHub Statistics ....***
 <br>
 <table border="0" align="center">
@@ -35,6 +37,7 @@ I am an undergraduate Engineering student at University of peradeniya, Sri Lanka
 </td></a>
 </table>
 <br>
+-->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2032%20mins-blue)

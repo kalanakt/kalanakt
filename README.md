@@ -40,17 +40,17 @@ I am an undergraduate Engineering student at University of peradeniya, Sri Lanka
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2050%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-80%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    310 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.49% 
+🌞 Morning    311 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.52% 
 🌆 Daytime    684 commits    ██████░░░░░░░░░░░░░░░░░░░   25.34% 
 🌃 Evening    905 commits    ████████░░░░░░░░░░░░░░░░░   33.53% 
-🌙 Night      800 commits    ███████░░░░░░░░░░░░░░░░░░   29.64%
+🌙 Night      799 commits    ███████░░░░░░░░░░░░░░░░░░   29.6%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -97,7 +97,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2022 23:50:38 UTC
+ Last Updated on 27/07/2022 01:44:51 UTC
 <!--END_SECTION:waka-->
 
 <!--

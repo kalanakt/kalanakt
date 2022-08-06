@@ -40,9 +40,27 @@ I am an undergraduate Engineering student at University of peradeniya, Sri Lanka
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%208%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-80%20Thousand%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   3 hrs 37 mins       █████████████████████░░░░   83.85% 
+Markdown                 39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.43% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+
+🔥 Editors: 
+VS Code                  4 hrs 19 mins       █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  4 hrs 19 mins       █████████████████████████   100.0%
+
+```
 
 
 <!--END_SECTION:waka-->

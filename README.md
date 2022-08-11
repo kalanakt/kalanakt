@@ -8,9 +8,11 @@
 The only way to learn to code is to write a lot of code
 ```
 
-<img align="right" width=300px height=270px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<!-- <img align="right" width=300px height=270px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /> -->
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width=30px height=30px>&nbsp;***About me***
+
+<img alt="programing gif" align="right" width=300px src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
 
 I am an undergraduate Engineering student at University of peradeniya, Sri Lanka. Python, Javascript, HTML, CSS and C++ are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing, Android development, and digital marketing**

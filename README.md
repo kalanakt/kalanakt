@@ -24,7 +24,7 @@ I am an undergraduate Engineering student at University of peradeniya, Sri Lanka
 - 🌈 Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href = "mailto: e19198@eng.pdn.ac.lk ">e19198@eng.pdn.ac.lk</a>
 - 💌 Hire me:  <a href = "mailto: e19198@eng.pdn.ac.lk ">◻ Email</a> <a href = "https://t.me/kinu6">◻ Telegram</a>  <a href = "https://wa.me/94760351335">◻ Whatsapp</a>
-- 💠 Stay In Touch: <a href = "https://www.linkedin.com/in/kalana-kithmina-5a584a243/">◻ Linkedin</a> <a href = "https://www.facebook.com/kalana.kithmina.735">◻ Facebook</a> <a href = "https://twitter.com/ktintwt">◻ Twitter</a>
+- 💠 Stay In Touch: <a href = "https://www.linkedin.com/in/kalanakt">◻ Linkedin</a> <a href = "https://www.facebook.com/kalana.kithmina.735">◻ Facebook</a> <a href = "https://twitter.com/ktintwt">◻ Twitter</a>
 <br>
 
 <!--

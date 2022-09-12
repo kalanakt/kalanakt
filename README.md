@@ -69,6 +69,12 @@ Windows                  52 hrs 59 mins      ███████████�
 
 ## Sponsers 💎
 
+ <table>
+  <tr>
+    <th><a href="https://codexo.vercel.app/"><img src="https://github.com/kalanakt/kalanakt/blob/main/sponsors/codexo_logo.png?raw=true" width=200px></a></th>
+  </tr>
+</table> 
+
 Get [Membership](https://www.patreon.com/codexo) To Add Your Brand Name Here
 
 <!--

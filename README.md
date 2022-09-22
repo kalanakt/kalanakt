@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&width=100"/>
+</div>
+
 <a title="kalana's profile views " href="https://github.com/kalanakt" ><img src="https://komarev.com/ghpvc/?username=kalanakt&label=Profile%20views" alt="kalana's profile views"></a>
 <a title="kalana's GitHub followers " href="https://github.com/kalanakt" ><img src="https://img.shields.io/github/followers/kalanakt?style=social" alt="kalana's GitHub followers"></a>
 <a title="kalana's GitHub stars " href="https://github.com/kalanakt" ><img src="https://img.shields.io/github/stars/kalanakt?style=social" alt="kalana's GitHub stars "></a>
@@ -76,6 +80,10 @@ Windows                  52 hrs 59 mins      ███████████�
 </table> 
 
 Get [Membership](https://www.patreon.com/codexo) To Add Your Brand Name Here
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</div>
 
 <!--
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=30px height=30px>&nbsp;***Most Used Languages | Weekly Average....***

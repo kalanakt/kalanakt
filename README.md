@@ -29,10 +29,6 @@ I am an undergraduate Engineering student at University of peradeniya, Sri Lanka
 - 💠 Stay In Touch: <a href = "https://www.linkedin.com/in/kalanakt">◻ Linkedin</a> <a href = "https://www.facebook.com/kalana.kithmina.735">◻ Facebook</a> <a href = "https://twitter.com/ktintwt">◻ Twitter</a>
 - 💎 Show Some Love & Get Rewards: <a href = "https://www.patreon.com/codexo">◻ Patreon</a>
 <br>
-
-<!--
-
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=30px height=30px>&nbsp;***Here Are Some of My GitHub Statistics ....***
 <br>
 <table border="0" align="center">
 <td width="50%" align="center">
@@ -40,36 +36,15 @@ I am an undergraduate Engineering student at University of peradeniya, Sri Lanka
 </td>
 <td width="50%" align="center">
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakt&theme=tokyonight">
-</td></a>
+</a></td>
+</table>
+</td>
+<table border="0" align="center">
+<td align="center">
+<a href="https://github.com/kalanakt/kalanakt"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakt&layout=compact&theme=tokyonight">
+</a></td>
 </table>
 <br>
--->
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-70%20Thousand%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   42 hrs 31 mins      ██████████████████░░░░░░░   73.98% 
-HTML                     5 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.98% 
-CSS                      4 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.58% 
-JavaScript               2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.77% 
-Text                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94%
-
-🔥 Editors: 
-VS Code                  52 hrs 59 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  52 hrs 59 mins      █████████████████████████   100.0%
-
-```
-
-
-<!--END_SECTION:waka-->
 
 ## Sponsers 💎
 

@@ -50,7 +50,7 @@ I am an undergraduate Engineering student at University of peradeniya, Sri Lanka
 
  <table>
   <tr>
-    <th><a href="https://codexo.vercel.app/"><img src="https://github.com/kalanakt/kalanakt/blob/main/sponsors/codexo_logo.png?raw=true" width=200px></a></th>
+    <th><a href="https://codexo.netlify.app"><img src="https://github.com/kalanakt/kalanakt/blob/main/sponsors/codexo_logo.png?raw=true" width=200px></a></th>
   </tr>
 </table> 
 

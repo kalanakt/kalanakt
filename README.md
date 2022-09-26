@@ -54,8 +54,6 @@ I am an undergraduate Engineering student at University of peradeniya, Sri Lanka
   </tr>
 </table> 
 
-Get [Membership](https://www.patreon.com/codexo) To Add Your Brand Name Here
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </div>

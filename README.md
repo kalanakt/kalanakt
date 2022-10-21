@@ -8,20 +8,18 @@
   <samp>
     <a href="https://iamkt.vercel.app/">me</a> .
     <a href="https://iamkt.vercel.app/about">about</a> .
-    <a href="https://iamkt.vercel.app/resumes">resumes</a> .
+    <a href="https://iamkt.vercel.app/resume">resume</a> .
     <a href="https://iamkt.vercel.app/blog">blog</a> .
-    <a href="https://iamkt.vercel.app/projects">projects</a>
+    <a href="https://iamkt.vercel.app/projects">projects</a> .
+    <a href="https://www.patreon.com/codexo">sponsors</a>
   </samp>
 </p>
 
 <p align="center">
   <samp>
-    <a href="mailto:e19198@eng.pdn.ac.lk">contact</a> .
-    <a href="https://twitter.com/kalanakt__">tweets</a> .
-    <a href="https://www.patreon.com/codexo">patreon</a> .
+    <a href="mailto:e19198@eng.pdn.ac.lk">mail</a> .
     <a href="https://www.facebook.com/kalana.kithmina.735">facebook</a> .
     <a href="https://www.linkedin.com/in/kalanakt">linkedin</a> .
-    <a href="https://www.patreon.com/codexo">sponsor</a> .
     <a href="https://t.me/kinu6">telegram</a>
   </samp>
 </p>

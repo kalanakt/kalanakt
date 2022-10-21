@@ -7,8 +7,8 @@
 <p align="center">
   <samp>
     <a href="https://iamkt.vercel.app/">me</a> .
-    <a href="https://iamkt.vercel.app/about">About</a> .
-    <a href="https://iamkt.vercel.app/resumes">Resumes</a> .
+    <a href="https://iamkt.vercel.app/about">about</a> .
+    <a href="https://iamkt.vercel.app/resumes">resumes</a> .
     <a href="https://iamkt.vercel.app/blog">blog</a> .
     <a href="https://iamkt.vercel.app/projects">projects</a>
   </samp>

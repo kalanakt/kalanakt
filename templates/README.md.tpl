@@ -47,13 +47,6 @@
 {{- end}}
 
 
-<h3>Recent Stars</h3>
-
-{{range recentStars 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
-{{- end}}
-
-
 <h3>Check out some of my recent followers</h3>
 
 {{range followers 5}}

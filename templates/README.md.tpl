@@ -32,11 +32,13 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
+
 <h3>Latest releases I've contributed to</h3>
 
 {{range recentReleases 10}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
+
 
 <h3>My recent Pull Requests</h3>
 
@@ -44,13 +46,16 @@
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
+
 <h3>Recent Stars</h3>
 
 {{range recentStars 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
+
 <h3>Check out some of my recent followers</h3>
+
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
 {{- end}}

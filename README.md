@@ -1,7 +1,3 @@
-<div align="center">
-<a href="#"><img title="Kalanakt" src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg"></a>
-</div>
-
 <p align="center">
 <a title="kalana's GitHub followers " href="https://github.com/kalanakt" ><img src="https://img.shields.io/github/followers/kalanakt?style=social" alt="kalana's GitHub followers"></a>
 <a title="GitHub stars " href="https://github.com/kalanakt" ><img src="https://img.shields.io/github/stars/kalanakt?style=social" alt="kalana's GitHub stars "></a>

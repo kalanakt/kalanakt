@@ -64,21 +64,6 @@
 - [Update For gramscript](https://github.com/kalanakt/All-Url-Uploader/pull/77) on [kalanakt/All-Url-Uploader](https://github.com/kalanakt/All-Url-Uploader) (1 month ago)
 
 
-<h3>Recent Stars</h3>
-
-
-- [kalanakt/nuxtailwind](https://github.com/kalanakt/nuxtailwind) - Blog Site Using Nuxt , Vite And Tailwind Css (6 days ago)
-- [nuxt/framework](https://github.com/nuxt/framework) - The Intuitive Web Framework, based on Vue 3. (1 week ago)
-- [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. (2 weeks ago)
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. (3 months ago)
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples (5 months ago)
-- [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) - 100&#43; Python challenging programming exercises (5 months ago)
-- [cheems/goindex-extended](https://github.com/cheems/goindex-extended) - A Google Drive Index, which has a lot of extra features, running on Cloudflare Workers. (7 months ago)
-- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com (8 months ago)
-- [pytgcalls/pytgcalls](https://github.com/pytgcalls/pytgcalls) - Async client API for the Telegram Group Calls (8 months ago)
-- [usernein/pyromod](https://github.com/usernein/pyromod) - A monkeypatcher add-on for Pyrogram (10 months ago)
-
-
 <h3>Check out some of my recent followers</h3>
 
 

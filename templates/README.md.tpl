@@ -38,17 +38,3 @@
 {{range recentReleases 10}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
-
-
-<h3>My recent Pull Requests</h3>
-
-{{range recentPullRequests 10}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-
-<h3>Check out some of my recent followers</h3>
-
-{{range followers 5}}
-- [{{.Login}}]({{.URL}})
-{{- end}}

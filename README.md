@@ -9,11 +9,10 @@
 <p align="center">
   <samp>
     <a href="https://iamkt.vercel.app/">me</a> .
-    <a href="https://iamkt.vercel.app/about">about</a> .
     <a href="https://iamkt.vercel.app/resume">resume</a> .
-    <a href="https://iamkt.vercel.app/blog">blog</a> .
+    <a href="https://iamkt.vercel.app/posts">blog</a> .
     <a href="https://iamkt.vercel.app/projects">projects</a> .
-    <a href="https://www.patreon.com/codexo">sponsors</a>
+    <a href="https://iamkt.vercel.app/help">sponsors</a>
   </samp>
 </p>
 

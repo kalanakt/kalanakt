@@ -17,10 +17,6 @@
 </p>
 
 <div align="center">
-<a href="https://github.com/kalanakt/kalanakt">
 <img src="https://raw.githubusercontent.com/kalanakt/kalanakt/7589b84b54ed86cb389fd06626593dcf57de0576/generated/overview.svg#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/kalanakt/kalanakt">
 <img src="https://raw.githubusercontent.com/kalanakt/kalanakt/7589b84b54ed86cb389fd06626593dcf57de0576/generated/languages.svg#gh-dark-mode-only" />
-</a>
 </div>

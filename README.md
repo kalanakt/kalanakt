@@ -20,3 +20,10 @@
 <img src="https://raw.githubusercontent.com/kalanakt/kalanakt/7589b84b54ed86cb389fd06626593dcf57de0576/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://raw.githubusercontent.com/kalanakt/kalanakt/7589b84b54ed86cb389fd06626593dcf57de0576/generated/languages.svg#gh-dark-mode-only" />
 </div>
+
+
+<div align="center">
+<a href="wakatime.com">
+<img src="https://wakatime.com/share/@codexo/8c35a14b-9757-4cbc-a3d1-5955191de486.svg" width="600px" alt="wakatime stats" title="WakaTime Weekly Stats">
+</a>
+<div>

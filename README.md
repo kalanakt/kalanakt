@@ -8,7 +8,7 @@
 
 <p align="center">
   <samp>
-    <a href="https://iamkt.vercel.app/">me</a> .
+    <a href="http://kalanakt.vercel.app/">me</a> .
     <a href="mailto:e19198@eng.pdn.ac.lk">email</a> .
     <a href="https://twitter.com/kalanakt__">twitter</a> .
     <a href="https://www.linkedin.com/in/kalanakt">linkedin</a> .

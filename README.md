@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=kalanakt&data=followers,repositories,stars,commits&theme=nautilus" alt="kalanakt" >
+</p>
+
+<p align="center">
 <a title="kalana's GitHub followers " href="https://github.com/kalanakt" ><img src="https://img.shields.io/github/followers/kalanakt?style=social" alt="kalana's GitHub followers"></a>
 <a title="GitHub stars " href="https://github.com/kalanakt" ><img src="https://img.shields.io/github/stars/kalanakt?style=social" alt="kalana's GitHub stars "></a>
 <a title="kalana's profile views " href="https://github.com/kalanakt" ><img src="https://komarev.com/ghpvc/?username=kalanakt&label=Profile%20views" alt="kalana's profile views"></a>

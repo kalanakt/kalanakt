@@ -1,4 +1,4 @@
-![github profile card](https://readme-cards.vercel.app/profile-card?name=kalanakt)
+![github profile card](https://readme-cards.vercel.app/profile-card?name=kalanakt&subtitle=FRONT%20END%20DEVELOPER)
 
 <p align="center">
 <a title="kalana's GitHub followers " href="https://github.com/kalanakt" ><img src="https://img.shields.io/github/followers/kalanakt?style=social" alt="kalana's GitHub followers"></a>

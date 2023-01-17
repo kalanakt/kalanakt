@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=kalanakt&data=followers,repositories,stars,commits&theme=nautilus" alt="kalanakt" >
-</p>
+![github profile card](https://readme-cards.vercel.app/profile-card?name=kalanakt)
 
 <p align="center">
 <a title="kalana's GitHub followers " href="https://github.com/kalanakt" ><img src="https://img.shields.io/github/followers/kalanakt?style=social" alt="kalana's GitHub followers"></a>

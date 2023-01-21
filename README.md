@@ -18,3 +18,12 @@
     <a href="https://t.me/kinu6">telegram</a>
   </samp>
 </p>
+
+| ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=All-Url-Uploader)  |  ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=awesome-telegram)  |  ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=nuxtailwind) |
+|---|---|---|
+| ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=baesuzy)  | ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=tailwind-react-components)  | ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=buymeacoffie)  | 
+|  ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=sent ) |  ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=Pyrogram-Telegram-Bot-Template) |  ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=Url-Uploader-TG) | 
+
+
+
+

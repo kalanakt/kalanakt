@@ -19,10 +19,10 @@
   </samp>
 </p>
 
-| ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=All-Url-Uploader)  |  ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=awesome-telegram)  |
+| ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=All-Url-Uploader)  |  ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=buymeacoffee)  |
 |---|---|
-| ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=Url-Uploader-TG)  | ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=Pyrogram-Telegram-Bot-Template )  |
-|  ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=cv-site  ) |  ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=kalanakt) | 
+| ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=github-readme-cards)  | ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=nuxtailwind )  |
+|  ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=cv-site  ) |  ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=react-svg-icons) | 
 
 
 

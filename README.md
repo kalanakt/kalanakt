@@ -19,7 +19,7 @@
   </samp>
 </p>
 
-| ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=All-Url-Uploader)  |  ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=buymeacoffee)  |
+| [![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=All-Url-Uploader)](https://github.com/kalanakt/All-Url-Uploader) |  [![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=buymeacoffee)](https://github.com/kalanakt/buymeacoffee)  |
 |---|---|
 | ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=github-readme-cards)  | ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=nuxtailwind )  |
 |  ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=cv-site  ) |  ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=react-svg-icons) | 

@@ -1,5 +1,5 @@
-![github profile card](https://readme-cards.vercel.app/profile-card?name=kalanakt&subtitle=FRONT%20END%20DEVELOPER)
-
+<!--[github profile card](https://readme-cards.vercel.app/profile-card?name=kalanakt&subtitle=FRONT%20END%20DEVELOPER)
+-->
 <p align="center">
 <a title="kalana's GitHub followers " href="https://github.com/kalanakt" ><img src="https://img.shields.io/github/followers/kalanakt?style=social" alt="kalana's GitHub followers"></a>
 <a title="GitHub stars " href="https://github.com/kalanakt" ><img src="https://img.shields.io/github/stars/kalanakt?style=social" alt="kalana's GitHub stars "></a>
@@ -18,12 +18,12 @@
     <a href="https://t.me/kinu6">telegram</a>
   </samp>
 </p>
-
+<!--
 | [![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=All-Url-Uploader)](https://github.com/kalanakt/All-Url-Uploader) |  [![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=buymeacoffee)](https://github.com/kalanakt/buymeacoffee)  |
 |---|---|
 | ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=github-readme-cards)  | ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=nuxtailwind )  |
 |  ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=cv-site  ) |  ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=react-svg-icons) | 
-
+-->
 
 
 

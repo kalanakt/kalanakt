@@ -20,6 +20,13 @@
     <a href="http://www.fiverr.com/s2/e53c337194">fiverr</a>
   </samp>
 </p>
+
+<p align="center">
+  <a href="https://wakatime.com/codexo">
+    <img width="500px" alt="kalanakt's wakatime stats" src="https://wakatime.com/share/@codexo/2585e4fb-1f91-487d-ae11-ee924c3f23f7.png" />
+  </a>
+ </p>
+
 <!--
 | [![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=All-Url-Uploader)](https://github.com/kalanakt/All-Url-Uploader) |  [![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=buymeacoffee)](https://github.com/kalanakt/buymeacoffee)  |
 |---|---|

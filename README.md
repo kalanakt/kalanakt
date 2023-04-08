@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://wakatime.com/codexo">
-    <img width="500px" alt="kalanakt's wakatime stats" src="https://wakatime.com/share/@codexo/2585e4fb-1f91-487d-ae11-ee924c3f23f7.png" />
+    <img width="500px" alt="kalanakt's wakatime stats" src="https://wakatime.com/share/@codexo/4ed9547f-af53-4134-a779-34c79af10ade.svg" />
   </a>
  </p>
 

@@ -20,17 +20,10 @@
     <a href="http://www.fiverr.com/s2/e53c337194">fiverr</a>
   </samp>
 </p>
-
-<p align="center">
-  <a href="https://wakatime.com/codexo">
-    <img width="500px" alt="kalanakt's wakatime stats" src="https://wakatime.com/share/@codexo/4ed9547f-af53-4134-a779-34c79af10ade.svg" />
-  </a>
- </p>
  
 <p align="center">
-  <img src="https://count.getloli.com/get/@:kalanakt" alt=":kalanakt" />
+  <img src="https://readme-cards.vercel.app/wakatime-chart?username=codexo&api=2e0057a3-7830-439a-8d7c-487b3f6c83aa" alt=":kalanakt" />
 </p>
-
 <!--
 | [![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=All-Url-Uploader)](https://github.com/kalanakt/All-Url-Uploader) |  [![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=buymeacoffee)](https://github.com/kalanakt/buymeacoffee)  |
 |---|---|

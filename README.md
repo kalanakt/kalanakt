@@ -22,7 +22,7 @@
 </p>
  
 <p align="center">
-  <img src="https://readme-cards.vercel.app/wakatime-chart?username=codexo&api=2e0057a3-7830-439a-8d7c-487b3f6c83aa" alt=":kalanakt" />
+  <img width=300 height=300 src="https://readme-cards.vercel.app/wakatime-chart?username=codexo&api=2e0057a3-7830-439a-8d7c-487b3f6c83aa" alt=":kalanakt" />
 </p>
 <!--
 | [![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=All-Url-Uploader)](https://github.com/kalanakt/All-Url-Uploader) |  [![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=buymeacoffee)](https://github.com/kalanakt/buymeacoffee)  |

@@ -26,6 +26,10 @@
     <img width="500px" alt="kalanakt's wakatime stats" src="https://wakatime.com/share/@codexo/4ed9547f-af53-4134-a779-34c79af10ade.svg" />
   </a>
  </p>
+ 
+<p align="center">
+  <img src="https://count.getloli.com/get/@:kalanakt" alt=":kalanakt" />
+</p>
 
 <!--
 | [![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=All-Url-Uploader)](https://github.com/kalanakt/All-Url-Uploader) |  [![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=buymeacoffee)](https://github.com/kalanakt/buymeacoffee)  |

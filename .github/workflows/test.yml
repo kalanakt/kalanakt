@@ -14,5 +14,3 @@ jobs:
         uses: actions/checkout@v2
       - name: Waka Readme
         uses: uvew/test@v1
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}

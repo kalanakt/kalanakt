@@ -22,8 +22,8 @@
 </p>
  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kalanakt/kalanakt/7589b84b54ed86cb389fd06626593dcf57de0576/generated/overview.svg#gh-dark-mode-only" alt="GitHub Statistics Card" title="GitHub Statistics"/>
-  <img src="https://raw.githubusercontent.com/kalanakt/kalanakt/7589b84b54ed86cb389fd06626593dcf57de0576/generated/languages.svg#gh-dark-mode-only" alt="Used Languages Card" title="Used Languages"/>
+  <img src="https://github.com/kalanakt/kalanakt/blob/main/generated/overview.svg#gh-dark-mode-only" alt="GitHub Statistics Card" title="GitHub Statistics"/>
+  <img src="https://github.com/kalanakt/kalanakt/blob/main/generated/languages.svg#gh-dark-mode-only" alt="Used Languages Card" title="Used Languages"/>
 </p>
 <!--
 | [![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=All-Url-Uploader)](https://github.com/kalanakt/All-Url-Uploader) |  [![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=buymeacoffee)](https://github.com/kalanakt/buymeacoffee)  |

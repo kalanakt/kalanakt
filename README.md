@@ -26,9 +26,9 @@
   <img src="https://github.com/kalanakt/kalanakt/blob/main/generated/languages.svg#gh-dark-mode-only" alt="Used Languages Card" title="Used Languages"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://count.getloli.com/get/@:kalanakt" alt=":kalanakt" />
-</p>
+</p> -->
 <!-- Edit here -->
 
 <!--

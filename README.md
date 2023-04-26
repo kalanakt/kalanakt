@@ -22,6 +22,12 @@
 </p>
  
 <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,astro,cpp,css,docker,flask,git,go,ai,js,mongodb,netlify,nextjs,nodejs,nuxtjs,py,react,remix,supabase,solidjs,svelte,tailwind,ts,vercel,vite,visualstudio,vscode,vue" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github.com/kalanakt/kalanakt/blob/main/generated/overview.svg#gh-dark-mode-only" alt="GitHub Statistics Card" title="GitHub Statistics"/>
   <img src="https://github.com/kalanakt/kalanakt/blob/main/generated/languages.svg#gh-dark-mode-only" alt="Used Languages Card" title="Used Languages"/>
 </p>

@@ -43,6 +43,7 @@
   <img src="https://wakatime.com/share/@codexo/cddbb837-6561-4b8a-8d83-5d200458ffd8.svg" width="500px" alt="kalanakt wakatime os stats"/>
   <img src="https://wakatime.com/share/@codexo/ff376425-820f-4c3a-9f77-9bf2bc5b67ae.svg" width="500px" alt="kalanakt wakatime debug stats"/>
 </details>
+    
 <!--  <p align="center">
   <img src="https://count.getloli.com/get/@:kalanakt" alt=":kalanakt" />
 </p>  -->

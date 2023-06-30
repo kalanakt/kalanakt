@@ -36,7 +36,7 @@
   <summary>🔘◼️▪️🔷▫️</summary>
 
   <br/>
-  <h1>Last & days Reality: <a href="https://wakatime.com/@codexo">wakatime/@codexo</a></h1>
+  <h1>Last 7 days Reality: <a href="https://wakatime.com/@codexo">wakatime/@codexo</a></h1>
   <img src="https://wakatime.com/share/@codexo/01cf25b1-b169-4d0c-ab42-2d1fc9342a40.svg" width="500px" alt="kalanakt wakatime lang stats"/>
   <img src="https://wakatime.com/share/@codexo/ccd3879c-b1eb-46e1-9429-8d505dea84a1.svg" width="500px" alt="kalanakt wakatime cording stats"/>
   <img src="https://wakatime.com/share/@codexo/6062bbcd-cb4c-4fa2-a357-ce011b85a1c8.svg" width="500px" alt="kalanakt wakatime editor stats"/>

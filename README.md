@@ -17,7 +17,7 @@
     <a href="https://www.linkedin.com/in/kalanakt">linkedin</a> .
     <a href="https://t.me/kinu6">telegram</a> .
     <a href="https://www.upwork.com/freelancers/~01117162318f682780">upwork</a>.
-    <a href="http://www.fiverr.com/s2/e53c337194">fiverr</a>
+    <a href="http://www.fiverr.com/kalanakt">fiverr</a>
   </samp>
 </p>
  

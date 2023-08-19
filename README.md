@@ -1,5 +1,7 @@
 <!--[github profile card](https://readme-cards.vercel.app/profile-card?name=kalanakt&subtitle=FRONT%20END%20DEVELOPER)
 -->
+
+<p align="center">I Love <a href="https://github.com/sveltejs">Svelte 👻</a></p>
 <p align="center">
 <a title="kalana's GitHub followers " href="https://github.com/kalanakt" ><img src="https://img.shields.io/github/followers/kalanakt?style=social" alt="kalana's GitHub followers"></a>
 <a title="GitHub stars " href="https://github.com/kalanakt" ><img src="https://img.shields.io/github/stars/kalanakt?style=social" alt="kalana's GitHub stars "></a>

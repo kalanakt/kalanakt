@@ -39,11 +39,11 @@
 
   <br/>
   <h1><i>You just crack the code!</i></h1>
-  <img src="https://wakatime.com/share/@codexo/01cf25b1-b169-4d0c-ab42-2d1fc9342a40.svg" width="400px" alt="kalanakt wakatime lang stats"/>
-  <img src="https://wakatime.com/share/@codexo/ccd3879c-b1eb-46e1-9429-8d505dea84a1.svg" width="400px" alt="kalanakt wakatime cording stats"/>
-  <img src="https://wakatime.com/share/@codexo/6062bbcd-cb4c-4fa2-a357-ce011b85a1c8.svg" width="400px" alt="kalanakt wakatime editor stats"/>
-  <img src="https://wakatime.com/share/@codexo/cddbb837-6561-4b8a-8d83-5d200458ffd8.svg" width="400px" alt="kalanakt wakatime os stats"/>
-  <img src="https://wakatime.com/share/@codexo/ff376425-820f-4c3a-9f77-9bf2bc5b67ae.svg" width="400px" alt="kalanakt wakatime debug stats"/>
+  <img src="https://wakatime.com/share/@codexo/6f3816b4-7963-4285-be2a-49226a4d105d.svg" width="400px" alt="kalanakt wakatime lang stats"/>
+  <img src="https://wakatime.com/share/@codexo/322bf560-7c98-4664-a93a-c3df62d2d843.svg" width="400px" alt="kalanakt wakatime cording stats"/>
+  <img src="https://wakatime.com/share/@codexo/847669a1-2f2f-4195-ad74-9581c74bc4fc.svg" width="400px" alt="kalanakt wakatime editor stats"/>
+  <img src="https://wakatime.com/share/@codexo/df20872e-afca-4347-9d17-248a75a77586.svg" width="400px" alt="kalanakt wakatime os stats"/>
+  <img src="https://wakatime.com/share/@codexo/e75fbd65-82ea-4a36-8064-fd8a5b5f9c02.svg" width="400px" alt="kalanakt wakatime debug stats"/>
 </details>
     
 <!--  <p align="center">

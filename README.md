@@ -39,8 +39,8 @@
 
   <br/>
   <h1><i>You just crack the code!</i></h1>
-  <img src="https://wakatime.com/share/@codexo/9f2491b5-6046-4562-bdf7-2284a5d275f0.svg" width="400px" alt="kalanakt wakatime lang stats"/>
-  <img src="https://wakatime.com/share/@codexo/9a2e96c0-79dc-4471-a6c1-bc9c23b545c2.svg" width="400px" alt="kalanakt wakatime cording stats"/>
+  <img src="https://wakatime.com/share/@codexo/9729510c-9a79-4f11-a835-47ca9e7717a9.svg" width="400px" alt="kalanakt wakatime lang stats"/>
+  <img src="https://wakatime.com/share/@codexo/47102c68-927b-4c60-9c39-7c4a55b76d7d.svg" width="400px" alt="kalanakt wakatime cording stats"/>
   <img src="https://wakatime.com/share/@codexo/a9f667a1-fc8f-42b3-ac9f-e36780faf639.svg" width="400px" alt="kalanakt wakatime editor stats"/>
   <img src="https://wakatime.com/share/@codexo/af2688cf-f931-4fda-8d6e-73d93bfca1d6.svg" width="400px" alt="kalanakt wakatime os stats"/>
   <img src="https://wakatime.com/share/@codexo/8f52d239-afd9-48d6-bb5f-b8d22c2af304.svg" width="400px" alt="kalanakt wakatime debug stats"/>

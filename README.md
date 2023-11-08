@@ -48,7 +48,8 @@
 </picture>
 </div>
 
-<details align="center">
+<div align="center">
+<details>
   <summary>🔘◼️▪️🔷▫️</summary>
 
   <br/>
@@ -59,6 +60,7 @@
   <img src="https://wakatime.com/share/@codexo/f9416644-00e3-41df-a593-2ae3ddae0256.svg" width="400px" alt="kalanakt wakatime os stats"/>
   <img src="https://wakatime.com/share/@codexo/2a2224a9-e183-40a0-94c8-63b49d292d77.svg" width="400px" alt="kalanakt wakatime debug stats"/>
 </details>
+</div>
     
 <!--  <p align="center">
   <img src="https://count.getloli.com/get/@:kalanakt" alt=":kalanakt" />

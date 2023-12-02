@@ -16,10 +16,7 @@
     <a href="http://kalanakt.vercel.app/">website</a> .
     <a href="mailto:e19198@eng.pdn.ac.lk">email</a> .
     <a href="https://twitter.com/kalanakt__">twitter</a> .
-    <a href="https://www.linkedin.com/in/kalanakt">linkedin</a> .
-    <a href="https://t.me/kinu6">telegram</a> .
-    <a href="https://www.upwork.com/freelancers/~01117162318f682780">upwork</a>.
-    <a href="http://www.fiverr.com/kalanakt">fiverr</a>
+    <a href="https://www.linkedin.com/in/kalanakt">linkedin</a>
   </samp>
 </p>
  

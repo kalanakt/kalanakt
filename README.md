@@ -31,10 +31,11 @@
   <img src="https://github.com/kalanakt/kalanakt/blob/main/generated/languages.svg#gh-dark-mode-only" alt="Used Languages Card" title="Used Languages"/>
 </p>
 
+<!-- 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kalanakt&theme=transparent" alt="GitHub Streak Card" title="Kalanakt's GitHub Streak"/>
 </p>
-<!-- <div align="center">
+<div align="center">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=kalanakt&rank_icon=github&show_icons=true&theme=github_dark_dimmed"

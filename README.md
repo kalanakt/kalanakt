@@ -13,7 +13,7 @@
 
 <p align="center">
   <samp>
-    <a href="http://kalanakt.vercel.app/">website</a> .
+    <a href="https://www.kalanakt.cc/">website</a> .
     <a href="mailto:e19198@eng.pdn.ac.lk">email</a> .
     <a href="https://twitter.com/kalanakt__">twitter</a> .
     <a href="https://www.linkedin.com/in/kalanakt">linkedin</a>

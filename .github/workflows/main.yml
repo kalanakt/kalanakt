@@ -55,8 +55,7 @@ jobs:
     # Commit all changed files to the repository
     - name: Commit to the repo
       run: |
-        git config --global user.name "kalanakt/github-stats"
-        git config --global user.email "github-stats[bot]@kalanakt.github.io"
+        git config --global user.name "kalanakt"
         git add .
         # Force the build to succeed, even if no files were changed
         git commit -m 'Update generated files' || true

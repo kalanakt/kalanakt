@@ -19,7 +19,7 @@
     <a href="https://www.linkedin.com/in/kalanakt">linkedin</a>
   </samp>
 </p>
- 
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=astro,docker,figma,flutter,go,kotlin,mongodb,nextjs,nodejs,nuxtjs,py,react,remix,rust,solidjs,svelte,tailwind,ts,vite,vue,dart,flutter&perline=10" />
@@ -54,14 +54,14 @@
 
   <br/>
   <h1><i>You just crack the code!</i></h1>
-  <img src="https://wakatime.com/share/@codexo/cde17da4-aada-449f-9972-5d2f2e0d2cdb.svg" width="400px" alt="kalanakt wakatime lang stats"/>
-  <img src="https://wakatime.com/share/@codexo/6adc7ab8-81b2-4448-88e3-0c5cc1967f27.svg" width="400px" alt="kalanakt wakatime cording stats"/>
-  <img src="https://wakatime.com/share/@codexo/95a9ac23-f28e-499e-ba72-477f21d8bb40.svg" width="400px" alt="kalanakt wakatime editor stats"/>
-  <img src="https://wakatime.com/share/@codexo/f9416644-00e3-41df-a593-2ae3ddae0256.svg" width="400px" alt="kalanakt wakatime os stats"/>
-  <img src="https://wakatime.com/share/@codexo/2a2224a9-e183-40a0-94c8-63b49d292d77.svg" width="400px" alt="kalanakt wakatime debug stats"/>
+  <img src="https://wakatime.com/share/@kalanakt/cde17da4-aada-449f-9972-5d2f2e0d2cdb.svg" width="400px" alt="kalanakt wakatime lang stats"/>
+  <img src="https://wakatime.com/share/@kalanakt/6adc7ab8-81b2-4448-88e3-0c5cc1967f27.svg" width="400px" alt="kalanakt wakatime cording stats"/>
+  <img src="https://wakatime.com/share/@kalanakt/95a9ac23-f28e-499e-ba72-477f21d8bb40.svg" width="400px" alt="kalanakt wakatime editor stats"/>
+  <img src="https://wakatime.com/share/@kalanakt/f9416644-00e3-41df-a593-2ae3ddae0256.svg" width="400px" alt="kalanakt wakatime os stats"/>
+  <img src="https://wakatime.com/share/@kalanakt/2a2224a9-e183-40a0-94c8-63b49d292d77.svg" width="400px" alt="kalanakt wakatime debug stats"/>
 </details>
 </div>
-    
+
 <!--  <p align="center">
   <img src="https://count.getloli.com/get/@:kalanakt" alt=":kalanakt" />
 </p>  -->
@@ -73,6 +73,3 @@
 | ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=github-readme-cards)  | ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=nuxtailwind )  |
 |  ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=cv-site  ) |  ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=react-svg-icons) | 
 -->
-
-
-

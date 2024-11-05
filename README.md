@@ -19,20 +19,26 @@
     <a href="https://www.linkedin.com/in/kalanakt">linkedin</a>
   </samp>
 </p>
-
+<!--
 <div align="center">
     <img src="https://skillicons.dev/icons?i=astro,docker,figma,flutter,go,kotlin,mongodb,nextjs,nodejs,nuxtjs,py,react,remix,rust,solidjs,svelte,tailwind,ts,vite,vue,dart,flutter&perline=10" />
 </div>
-<br />
-<br />
+-->
+
+<!--
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kalanakt&theme=meta-light&hide_border=true&border_radius=5.5" alt="kalanakt's github streak" title="kalanakt's github streak" />
 </div>
+-->
 
 <p align="center">
   <img src="https://github.com/kalanakt/kalanakt/blob/main/generated/overview.svg#gh-dark-mode-only" alt="kalanakt's GitHub Statistics Card" title="kalanakt's GitHub Statistics"/>
   <img src="https://github.com/kalanakt/kalanakt/blob/main/generated/languages.svg#gh-dark-mode-only" alt="kalanakt's Used Languages Card" title="kalanakt's Used Languages"/>
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kalanakt&theme=transparent" alt="GitHub Streak Card" title="Kalanakt's GitHub Streak"/>
@@ -51,6 +57,7 @@
 </picture>
 </div> -->
 
+<!--
 <div align="center">
 <details>
   <summary>🔘◼️▪️🔷▫️</summary>
@@ -64,6 +71,7 @@
   <img src="https://wakatime.com/share/@kalanakt/2a2224a9-e183-40a0-94c8-63b49d292d77.svg" width="400px" alt="kalanakt wakatime debug stats"/>
 </details>
 </div>
+-->
 
 <!--  <p align="center">
   <img src="https://count.getloli.com/get/@:kalanakt" alt=":kalanakt" />

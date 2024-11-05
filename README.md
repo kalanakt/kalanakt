@@ -20,15 +20,18 @@
   </samp>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=astro,docker,figma,flutter,go,kotlin,mongodb,nextjs,nodejs,nuxtjs,py,react,remix,rust,solidjs,svelte,tailwind,ts,vite,vue,dart,flutter&perline=10" />
-  </a>
-</p>
+</div>
+<br />
+<br />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kalanakt&theme=meta-light&hide_border=true&border_radius=5.5" alt="kalanakt's github streak" title="kalanakt's github streak" />
+</div>
 
 <p align="center">
-  <img src="https://github.com/kalanakt/kalanakt/blob/main/generated/overview.svg#gh-dark-mode-only" alt="GitHub Statistics Card" title="GitHub Statistics"/>
-  <img src="https://github.com/kalanakt/kalanakt/blob/main/generated/languages.svg#gh-dark-mode-only" alt="Used Languages Card" title="Used Languages"/>
+  <img src="https://github.com/kalanakt/kalanakt/blob/main/generated/overview.svg#gh-dark-mode-only" alt="kalanakt's GitHub Statistics Card" title="kalanakt's GitHub Statistics"/>
+  <img src="https://github.com/kalanakt/kalanakt/blob/main/generated/languages.svg#gh-dark-mode-only" alt="kalanakt's Used Languages Card" title="kalanakt's Used Languages"/>
 </p>
 <!-- 
 <p align="center">

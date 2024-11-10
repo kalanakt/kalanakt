@@ -7,6 +7,8 @@
 <a title="YouTube Channel Views" href="https://bit.ly/iamktyoutube" ><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC6LqyY4t6lYLBb1iQxxiL3Q?style=social"></a>
 </div>
 
+<br />
+
 <div align="center">
   <samp>
     <a href="https://www.kalanakt.cc/">website</a> .
@@ -15,17 +17,8 @@
     <a href="https://www.linkedin.com/in/kalanakt">linkedin</a>
   </samp>
 </div>
-<!--
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=astro,docker,figma,flutter,go,kotlin,mongodb,nextjs,nodejs,nuxtjs,py,react,remix,rust,solidjs,svelte,tailwind,ts,vite,vue,dart,flutter&perline=10" />
-</div>
--->
 
-<!--
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kalanakt&theme=meta-light&hide_border=true&border_radius=5.5" alt="kalanakt's github streak" title="kalanakt's github streak" />
-</div>
--->
+<br />
 
 <div align="center">
   <img src="https://github.com/kalanakt/kalanakt/blob/main/generated/overview.svg#gh-dark-mode-only" alt="kalanakt's GitHub Statistics Card" title="kalanakt's GitHub Statistics"/>
@@ -33,24 +26,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C523%20hrs%2040%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-112-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 1.7 MB Used in GitHub's Storage 
- > 
-> 🏆 838 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 25 Public Repositories 
- > 
-> 🔑 234 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
 ```text
 🌞 Morning                1374 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
 🌆 Daytime                2188 commits        ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
@@ -95,57 +70,4 @@ JavaScript               29 repos            ██░░░░░░░░░�
 Astro                    13 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
 Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/kalanakt/kalanakt/main/assets/bar_graph.png)
-
-
- Last Updated on 10/11/2024 20:45:05 UTC
 <!--END_SECTION:waka-->
-
-<!-- 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kalanakt&theme=transparent" alt="GitHub Streak Card" title="Kalanakt's GitHub Streak"/>
-</p>
-<div align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kalanakt&rank_icon=github&show_icons=true&theme=github_dark_dimmed"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kalanakt&rank_icon=github&show_icons=true&theme=github_dark_dimmed"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=kalanakt&rank_icon=github&show_icons=true&theme=github_dark_dimmed" />
-</picture>
-</div> -->
-
-<!--
-<div align="center">
-<details>
-  <summary>🔘◼️▪️🔷▫️</summary>
-
-  <br/>
-  <h1><i>You just crack the code!</i></h1>
-  <img src="https://wakatime.com/share/@kalanakt/cde17da4-aada-449f-9972-5d2f2e0d2cdb.svg" width="400px" alt="kalanakt wakatime lang stats"/>
-  <img src="https://wakatime.com/share/@kalanakt/6adc7ab8-81b2-4448-88e3-0c5cc1967f27.svg" width="400px" alt="kalanakt wakatime cording stats"/>
-  <img src="https://wakatime.com/share/@kalanakt/95a9ac23-f28e-499e-ba72-477f21d8bb40.svg" width="400px" alt="kalanakt wakatime editor stats"/>
-  <img src="https://wakatime.com/share/@kalanakt/f9416644-00e3-41df-a593-2ae3ddae0256.svg" width="400px" alt="kalanakt wakatime os stats"/>
-  <img src="https://wakatime.com/share/@kalanakt/2a2224a9-e183-40a0-94c8-63b49d292d77.svg" width="400px" alt="kalanakt wakatime debug stats"/>
-</details>
-</div>
--->
-
-
-<!-- Edit here -->
-
-<!--
-| [![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=All-Url-Uploader)](https://github.com/kalanakt/All-Url-Uploader) |  [![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=buymeacoffee)](https://github.com/kalanakt/buymeacoffee)  |
-|---|---|
-| ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=github-readme-cards)  | ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=nuxtailwind )  |
-|  ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=cv-site  ) |  ![github repo card](https://readme-cards.vercel.app/repo-card?name=kalanakt&repo=react-svg-icons) | 
--->

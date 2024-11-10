@@ -12,6 +12,10 @@
 </p>
 
 <p align="center">
+  <img src="https://count.getloli.com/get/@:kalanakt" alt=":kalanakt" />
+</p> 
+
+<p align="center">
   <samp>
     <a href="https://www.kalanakt.cc/">website</a> .
     <a href="mailto:e19198@eng.pdn.ac.lk">email</a> .
@@ -73,9 +77,7 @@
 </div>
 -->
 
-<!--  <p align="center">
-  <img src="https://count.getloli.com/get/@:kalanakt" alt=":kalanakt" />
-</p>  -->
+
 <!-- Edit here -->
 
 <!--

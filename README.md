@@ -25,6 +25,8 @@
   <img src="https://github.com/kalanakt/kalanakt/blob/main/generated/languages.svg#gh-dark-mode-only" alt="kalanakt's Used Languages Card" title="kalanakt's Used Languages"/>
 </div>
 
+<br />
+
 <!--START_SECTION:waka-->
 ```text
 🌞 Morning                1374 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 

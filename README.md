@@ -1,6 +1,3 @@
-<!--[github profile card](https://readme-cards.vercel.app/profile-card?name=kalanakt&subtitle=FRONT%20END%20DEVELOPER)
--->
-
 <div align="center">
 <a title="kalana's GitHub followers " href="https://github.com/kalanakt" ><img src="https://img.shields.io/github/followers/kalanakt?style=social" alt="kalana's GitHub followers"></a>
 <a title="GitHub stars " href="https://github.com/kalanakt" ><img src="https://img.shields.io/github/stars/kalanakt?style=social" alt="kalana's GitHub stars "></a>
@@ -9,10 +6,6 @@
 <a title="Twitter Follow" href="https://twitter.com/intent/follow?screen_name=DevVibeX" ><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/DevVibeX?label=follow&style=social"></a>
 <a title="YouTube Channel Views" href="https://bit.ly/iamktyoutube" ><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC6LqyY4t6lYLBb1iQxxiL3Q?style=social"></a>
 </div>
-
-<div align="center">
-  <img src="https://count.getloli.com/get/@:kalanakt" alt=":kalanakt" />
-</div> 
 
 <div align="center">
   <samp>

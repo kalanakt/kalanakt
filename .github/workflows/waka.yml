@@ -20,6 +20,8 @@ jobs:
           SHOW_PROJECTS: "False"
           COMMIT_BY_ME: "True"
           SHOW_UPDATED_DATE: "False"
+          COMMIT_USERNAME: "kalanakt"
+          COMMIT_EMAIL: ${{ secrets.COMMIT_EMAIL }}
           SHOW_LINES_OF_CODE: "False"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS: "False"

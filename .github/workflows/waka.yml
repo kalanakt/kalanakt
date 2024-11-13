@@ -5,7 +5,7 @@ on:
     branches: [ main ]
   schedule:
     # Runs at 12am IST
-    - cron: '0 0 * * *'
+    - cron: '0 11 * * *'
   workflow_dispatch:
 jobs:
   update-readme:

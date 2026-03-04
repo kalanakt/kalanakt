@@ -28,29 +28,86 @@
 <br />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C520%20hrs%2018%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 2.9 MB Used in GitHub's Storage 
+ > 
+> 🏆 699 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 29 Public Repositories 
+ > 
+> 🔑 303 Private Repositories 
+ > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1044 commits        █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-🌆 Daytime                1511 commits        ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-🌃 Evening                1890 commits        █████████░░░░░░░░░░░░░░░░   34.85 % 
-🌙 Night                  979 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+🌞 Morning                7316 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+🌆 Daytime                11954 commits       ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+🌃 Evening                14343 commits       ████████░░░░░░░░░░░░░░░░░   31.27 % 
+🌙 Night                  12254 commits       ███████░░░░░░░░░░░░░░░░░░   26.72 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   7179 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Tuesday                  6267 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Wednesday                5411 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Thursday                 8053 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Friday                   6614 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Saturday                 5455 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Sunday                   6888 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
+🕑︎ Time Zone: Asia/Colombo
+
 💬 Programming Languages: 
-TypeScript               2 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   31.92 % 
-Astro                    1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
-Svelte                   1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
-JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-CSS                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Other                    9 hrs 5 mins        ███████████████████░░░░░░   75.55 % 
+shell script             1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+TypeScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Python                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 7 mins        █████████████████████████   100.00 % 
+Zed                      11 hrs 57 mins      █████████████████████████   99.33 % 
+Terminal                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+
+🐱‍💻 Projects: 
+donotname                3 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   28.99 % 
+README.md                2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+migrate.py               1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+package.json             1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+main.py                  1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+
+💻 Operating System: 
+Mac                      12 hrs 2 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   137 repos           ██████████░░░░░░░░░░░░░░░   38.48 % 
+TypeScript               109 repos           ████████░░░░░░░░░░░░░░░░░   30.62 % 
+Astro                    22 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Go                       10 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Vue                      9 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 ```
 
 
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/kalanakt/kalanakt/main/assets/bar_graph.png)
+
+
+ Last Updated on 04/03/2026 01:08:29 UTC
 <!--END_SECTION:waka-->

@@ -58,4 +58,5 @@ jobs:
         git add .
         # Force the build to succeed, even if no files were changed
         git commit -m 'Update generated files' || true
+        git pull --rebase origin main
         git push

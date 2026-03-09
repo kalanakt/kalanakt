@@ -16,7 +16,7 @@ jobs:
           SHOW_OS: "True"
           SECTION_NAME: ""
           SHOW_PROJECTS: "False"
-          COMMIT_BY_ME: "True"
+          COMMIT_BY_ME: "False"
           SHOW_UPDATED_DATE: "False"
           SHOW_LINES_OF_CODE: "False"
           SHOW_TOTAL_CODE_TIME: "False"

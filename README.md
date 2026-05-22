@@ -11,7 +11,7 @@
 
 <div align="center">
   <samp>
-    <a href="https://www.kalanakt.cc/">website</a> .
+    <a href="https://www.kalanakt.com/">website</a> .
     <a href="mailto:e19198@eng.pdn.ac.lk">email</a> .
     <a href="https://www.fiverr.com/s/AymAp4R">hire me</a> .
     <a href="https://twitter.com/intent/follow?screen_name=DevVibeX">twitter</a> .
